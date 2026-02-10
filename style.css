@@ -509,3 +509,7 @@ body {
         justify-content: center;
     }
 }
+.dots{
+    margin: 0%;
+    justify-items: center;
+}
